@@ -1,0 +1,2 @@
+# computer_vision_and_fine_tunning
+computer_vision논문리뷰및 fine-tuning 
